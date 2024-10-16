@@ -1,0 +1,85 @@
+name: mohit_bloc_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc:
+  flutter_bloc:
+  sqflite: ^2.4.0
+  path: ^1.9.0
+  path_provider: ^2.1.4
+  carousel_slider: ^5.0.0
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets\login\login.png
+   - assets\signup\signup.png
+   - assets\fruits.png
+   - assets\vegetable (2).png
+   - assets\offer1.jpg
+   - assets\offer2.jpg
+   - assets\offer3.jpg
+   - assets\offer4.jpg
+   - assets\offer5.jpg
+   - assets\dairyproducts.png
+   - assets\cookingEssentials.png
+   - assets\bananas.png
+   - assets\bread.png
+   - assets\Tomatoes.png
+   - assets\grapes.png
+   - assets\eggs.png
+   - assets\person.png
+   - assets\snacks.png
+   - assets\packagefood.png
+   - assets\Bevrages.png
+   - assets\household.png
+   - assets\Okra.png
+   - assets\broccoli.png
+   - assets\Carrots.png
+   - assets\cabbage.png
+   - assets\apples.png
+   - assets\mangoes.png
+   - assets\custurdapple.png
+   - assets\Milk.png
+   - assets\lassi.png
+   - assets\Curd.png
+   - assets\Butter.png
+   - assets\Jowar.jpg
+   - assets\wheat.jpg
+   - assets\Rice.png
+   - assets\oils.png
+   - assets\Masala.png
+   - assets\makhana.png
+   - assets\chocolates.png
+   - assets\bhel.png
+   - assets\biscuits.png
+   - assets\chips.png
+   - assets\mcains.png
+   - assets\frozenchicken.png
+   - assets\nuggets.png
+   - assets\kellogs.png
+   - assets\Maza.png
+   - assets\Taazatea.png
+   - assets\SoftDrinks.png
+   - assets\Coffee.png
+   - assets\greenTea.png
+   - assets\utensilscleaner.png
+   - assets\soaps.png
+   - assets\shampoo.png
+   - assets\floorcleaner.png
+   - assets\Harpic.png
+   - assets\privacy.png
+   - assets\aboutus.png
